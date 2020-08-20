@@ -3,8 +3,7 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "eiixy",
-            "email": "990656271@qq.com"
+            "name": "soen"
         }
     ],
     "require": {
@@ -13,7 +12,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Eiixy\\WebOffice\\": "src/"
+            "Soen\\WebOffice\\": "src/"
         }
     },
     "extra": {
